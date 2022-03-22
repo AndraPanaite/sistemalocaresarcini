@@ -1,1 +1,1 @@
-
+This educational project consists in a web application using PHP, database concepts (SQL) and web design (HTML&CSS). The project is dedicated to employees who have an account in which they can see their past and current tasks in the company. The Allocation System is implemented from an administrator account who can see all the tasks and information about them such as deadlines and allocate them to proper employee.
